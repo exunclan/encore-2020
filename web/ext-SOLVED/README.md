@@ -6,5 +6,5 @@
 
 ## Exploit
 
-- Upload PHp revshell using burp as given in the first link above
+- Upload PHP revshell using burp as given in the first link above
 - Use AWS to revshell to avoid double NAT issues, since there's no openvpn tunnel
